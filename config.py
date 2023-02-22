@@ -1,1 +1,1 @@
-USER_AGENT = "Tester"
+USER_AGENT = "Testerpilot027"
